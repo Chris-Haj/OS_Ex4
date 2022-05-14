@@ -1,4 +1,4 @@
-Polynomial calculator
+Polynomial Calculator
 Authored by Christopher Haj
 207824772
 
